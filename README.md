@@ -1,0 +1,1 @@
+Simple example of using node.js, Jest, and GitHub Actions together for testing / CI.  Based on the [Jest Getting Started docs](https://jestjs.io/docs/en/getting-started) and the [GitHub Actions docs](https://docs.github.com/en/free-pro-team@latest/actions/guides/building-and-testing-nodejs).
